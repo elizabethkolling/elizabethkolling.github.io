@@ -1,0 +1,14 @@
+[
+  {
+    "listing": "/fiction.html",
+    "items": [
+      "/fiction/nonfiction_example_1/index.html"
+    ]
+  },
+  {
+    "listing": "/nonfiction.html",
+    "items": [
+      "/nonfiction/nonfiction_example_1/index.html"
+    ]
+  }
+]

@@ -1,0 +1,16 @@
+---
+page-layout: full
+title-block-banner: true
+---
+
+<section style="max-width: 700px; margin: auto; padding-top: 2rem;">
+
+<center>
+
+I'm **Elizabeth**, a writer fascinated by the blurred lines between fiction and truth.
+
+My stories challenge boundaries and reflect the complexities of human experience.
+
+</center>
+
+</section>

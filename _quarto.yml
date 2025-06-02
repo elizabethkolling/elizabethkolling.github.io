@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: docs
+  resources: CNAME
+
+website:
+  title: "Elizabeth Kolling"
+  navbar:
+    right:
+      - about.qmd
+      - fiction.qmd
+      - nonfiction.qmd
+  
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    include-in-header: header.html
+
+
+
