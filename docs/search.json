@@ -4,7 +4,35 @@
     "href": "fiction/nonfiction_example_1/index.html",
     "title": "Fiction Example 1",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "nonfiction.html",
+    "href": "nonfiction.html",
+    "title": "Nonfiction",
+    "section": "",
+    "text": "Nonfiction Example 1\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2025\n\n\nElizabeth Kolling\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My name is Elizabeth"
+  },
+  {
+    "objectID": "fiction.html",
+    "href": "fiction.html",
+    "title": "Fiction",
+    "section": "",
+    "text": "Fiction from today\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2025\n\n\nElizabeth Kolling\n\n\n\n\n\n\n\n\n\n\n\n\nFiction Example 1\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2025\n\n\nElizabeth Kolling\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Elizabeth Kolling",
+    "section": "",
+    "text": "I’m Elizabeth, a writer fascinated by the blurred lines between fiction and truth.\nThe stories I write challenge boundaries and reflect the complexities of human experience."
   },
   {
     "objectID": "nonfiction/nonfiction_example_1/index.html",
@@ -14,31 +42,10 @@
     "text": "This is a post with executable code."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Elizabeth Kolling",
+    "objectID": "fiction/06022025/index.html",
+    "href": "fiction/06022025/index.html",
+    "title": "Fiction from today",
     "section": "",
-    "text": "I’m Elizabeth, a writer fascinated by the blurred lines between fiction and truth.\nMy stories challenge boundaries and reflect the complexities of human experience."
-  },
-  {
-    "objectID": "fiction.html",
-    "href": "fiction.html",
-    "title": "Fiction",
-    "section": "",
-    "text": "Fiction Example 1\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nMay 30, 2025\n\n\nElizabeth Kolling\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this blog"
-  },
-  {
-    "objectID": "nonfiction.html",
-    "href": "nonfiction.html",
-    "title": "Nonfiction",
-    "section": "",
-    "text": "Nonfiction Example 1\n\n\n\nnews\n\ncode\n\nanalysis\n\n\n\n\n\n\n\n\n\nJun 2, 2025\n\n\nElizabeth Kolling\n\n\n\n\n\nNo matching items"
+    "text": "This is the first post in a Quarto blog. Welcome!\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
   }
 ]

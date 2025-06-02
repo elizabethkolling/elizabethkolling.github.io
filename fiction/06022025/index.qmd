@@ -1,8 +1,9 @@
 ---
-title: "Fiction Example 1"
+title: "Fiction from today"
 author: "Elizabeth Kolling"
 date: "2025-05-30"
 categories: [news]
+image: "image.jpg"
 ---
 
 This is the first post in a Quarto blog. Welcome!
