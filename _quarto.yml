@@ -10,6 +10,10 @@ website:
       - about.qmd
       - fiction.qmd
       - nonfiction.qmd
+      - text: "LinkedIn"
+        href: "https://www.linkedin.com/in/elizabeth-kolling"
+        icon: linkedin  # optional icon
+        target: _blank  # optional to open in new tab
   
 format:
   html:

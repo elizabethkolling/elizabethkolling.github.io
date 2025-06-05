@@ -5,5 +5,3 @@ about:
   template: jolla
 
 ---
-
-My name is Elizabeth

@@ -7,9 +7,8 @@ title-block-banner: true
 
 <center>
 
-I'm **Elizabeth**, a writer fascinated by the blurred lines between fiction and truth.
+Writer based in New York City.
 
-The stories I write challenge boundaries and reflect the complexities of human experience.
 
 </center>
 
