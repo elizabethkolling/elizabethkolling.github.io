@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Elizabeth Kolling">
+<meta name="dcterms.date" content="2025-06-10">
 
-<title>Fiction – Elizabeth Kolling</title>
+<title>Levi – Elizabeth Kolling</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +25,23 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js" type="module"></script>
-<script src="site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../">
+<script src="../../site_libs/quarto-html/quarto.js" type="module"></script>
+<script src="../../site_libs/quarto-html/tabsets/tabsets.js" type="module"></script>
+<script src="../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e1a5c8363afafaef2c763b6775fbf3ca.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../site_libs/bootstrap/bootstrap-c1fac2584b48ed01fb6e278e36375074.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -69,78 +69,20 @@ ul.task-list li input[type="checkbox"] {
     "search-label": "Search"
   }
 }</script>
-<script>
+<link rel="shortcut icon" href="../../rose.ico">
 
-  window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
-    if (!listingTargetEl) {
-      // No listing discovered, do not attach.
-      return; 
-    }
 
-    const options = {
-      valueNames: ['listing-date','listing-title','listing-author','listing-image','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
-      
-      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description"],
-    };
-
-    window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
-
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  });
-
-  window.addEventListener('hashchange',() => {
-    if (window['quarto-listing-loaded']) {
-      window['quarto-listing-loaded']();
-    }
-  })
-  </script>
-<link rel="shortcut icon" href="./rose.ico">
-
-  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
-  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-const typesetMath = (el) => {
-  if (window.MathJax) {
-    // MathJax Typeset
-    window.MathJax.typeset([el]);
-  } else if (window.katex) {
-    // KaTeX Render
-    var mathElements = el.getElementsByClassName("math");
-    var macros = [];
-    for (var i = 0; i < mathElements.length; i++) {
-      var texText = mathElements[i].firstChild;
-      if (mathElements[i].tagName == "SPAN") {
-        window.katex.render(texText.data, mathElements[i], {
-          displayMode: mathElements[i].classList.contains('display'),
-          throwOnError: false,
-          macros: macros,
-          fleqn: false
-        });
-      }
-    }
-  }
-}
-window.Quarto = {
-  typesetMath
-};
-</script>
-
-<link rel="stylesheet" href="styles.css">
+<link rel="stylesheet" href="../../styles.css">
 </head>
 
-<body class="nav-fixed quarto-light">
+<body class="nav-fixed fullcontent quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top quarto-banner">
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Elizabeth Kolling</span>
     </a>
   </div>
@@ -151,15 +93,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
+    <a class="nav-link" href="../../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./fiction.html" aria-current="page"> 
+    <a class="nav-link" href="../../fiction.html"> 
 <span class="menu-text">Fiction</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./nonfiction.html"> 
+    <a class="nav-link" href="../../nonfiction.html"> 
 <span class="menu-text">Nonfiction</span></a>
   </li>  
   <li class="nav-item">
@@ -177,184 +119,81 @@ window.Quarto = {
 <!-- content -->
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
-    <div class="quarto-title column-page">
-      <h1 class="title">Fiction</h1>
+    <div class="quarto-title column-body">
+      <h1 class="title">Levi</h1>
                       </div>
   </div>
     
   
-  <div class="quarto-title-meta column-page">
+  <div class="quarto-title-meta">
 
+      <div>
+      <div class="quarto-title-meta-heading">Author</div>
+      <div class="quarto-title-meta-contents">
+               <p>Elizabeth Kolling </p>
+            </div>
+    </div>
       
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">June 10, 2025</p>
+      </div>
+    </div>
     
       
     </div>
     
   
-  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content quarto-banner-title-block column-page" id="quarto-document-content">
+<main class="content quarto-banner-title-block" id="quarto-document-content">
 
 
 
 
 
+<p>“Hey,” Levi said to him a second time.</p>
+<p>Owen was reading Catcher in The Rye on the bus, and he was getting to the good part so it took him a second to understand that someone was talking to him and not their mother on the phone insisting on . It was Levi, one of the other freshmen, leaned back in the seat next to him, with his cleats off and legs dangling over the floor. The socks hadn’t been washed for a few games and he was a shorter fellow, second string. Sometimes, Coach would substitute him late in the second half. Levi didn’t play much, but he put his best foot forward when he was out there, and he had a way of always seeing the silver lining in any situation.</p>
+<p>“Hey,” Owen said back, as he turned to face him. “Levi, right?”</p>
+<p>“Holden’s kind of a dick.”</p>
+<p>“Really?”</p>
+<p>“Don’t you think?”</p>
+<p>“I don’t know,” he said, still wondering if he’d guessed his name correctly. It’d only been two weeks since the start of the season. “I mean, I think, for me, it’s too early to tell.”</p>
+<p>“Huh, how far are you?”</p>
+<p>“Huh?”</p>
+<p>“In the book,” he said. “What’s happening right now in the book?”</p>
+<p>“Oh, right,” he said. “I’m at the part where he’s in a cab.”</p>
+<p>“Which cab?”</p>
+<p>“There’s more than one?”</p>
+<p>“The first or the second?</p>
+<p>Owen took his thumb out from between the pages and turned his book, closed cover to cover, so Levi could see where the book mark was. Levi saw how the width of the pages towards the back cover was thicker than he had previously thought. He sort of nodded his head in the affirmative and let out a disappointed sigh.</p>
+<p>“There’s not more than ten,” Levi said. “But there is more than one.”</p>
+<p>“I’ve got that to look forward to.”</p>
+<p>“You don’t like it so far?”</p>
+<p>“No, I mean, I like it.”</p>
+<p>“It’s a classic, but I know what you mean.”</p>
+<p>“Yeah.”</p>
+<p>“Well, we should talk about it when you finish.”</p>
+<p>“Yeah,” Owen said. “Okay.”</p>
+<p>“We could start a book club.”</p>
+<p>“That’d be cool.”</p>
+<p>“For sure,” Owen said as Levi turned back around and readjusted only to pull his foot to his face. Owen threw up in his mouth a little bit at the sight of it, but Levi thought the sock smelled all right.</p>
+<p>The school bus was making its way over rolling hills, back through West Marin, and Owen was well past the part about Holden debating the pimp, by the time he checked his phone. One missed call from his mother, and Samantha had sent him a text.</p>
+<p>“Have a great game my left forward,” she said. “Go score some goals, I love you.”</p>
+<p>Her less than sign next to the number three formed a heart. He sent a colon with a closing parenthesis, and called back.</p>
+<p>“It was good,” he said to her. “I scored two goals!”</p>
+<p>“Congratulations, honey!”</p>
+<p>“Thanks, Mom.”</p>
+<p>“So,” Laura said. “What was the score?”</p>
+<p>“Two to one, us versus them.”</p>
 
 
 
-
-<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
-<div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-listing-date-sort="1749528000000" data-listing-file-modified-sort="1749598774224" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="489">
-<div class="thumbnail"><a href="./fiction/Levi/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./fiction/Levi/index.html" class="no-external">Levi</a>
-</h3>
-<div class="delink listing-description"><a href="./fiction/Levi/index.html" class="no-external">
-</a></div>
-</div>
-<div class="metadata">
-<a href="./fiction/Levi/index.html" class="no-external">
-<div class="listing-date">
-Jun 10, 2025
-</div>
-<div class="listing-author">
-Elizabeth Kolling
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="1" data-listing-date-sort="1749441600000" data-listing-file-modified-sort="1749522375889" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="468">
-<div class="thumbnail"><a href="./fiction/Grandpa C./index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./fiction/Grandpa C./index.html" class="no-external">Grandpa C.</a>
-</h3>
-<div class="delink listing-description"><a href="./fiction/Grandpa C./index.html" class="no-external">
-</a></div>
-</div>
-<div class="metadata">
-<a href="./fiction/Grandpa C./index.html" class="no-external">
-<div class="listing-date">
-Jun 9, 2025
-</div>
-<div class="listing-author">
-Elizabeth Kolling
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="2" data-listing-date-sort="1749096000000" data-listing-file-modified-sort="1749167206599" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
-<div class="thumbnail"><a href="./fiction/Laura II/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./fiction/Laura II/index.html" class="no-external">Laura II</a>
-</h3>
-<div class="delink listing-description"><a href="./fiction/Laura II/index.html" class="no-external">
-</a></div>
-</div>
-<div class="metadata">
-<a href="./fiction/Laura II/index.html" class="no-external">
-<div class="listing-date">
-Jun 5, 2025
-</div>
-<div class="listing-author">
-Elizabeth Kolling
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="3" data-listing-date-sort="1749096000000" data-listing-file-modified-sort="1749165727595" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="641">
-<div class="thumbnail"><a href="./fiction/Owen/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./fiction/Owen/index.html" class="no-external">Owen</a>
-</h3>
-<div class="delink listing-description"><a href="./fiction/Owen/index.html" class="no-external">
-</a></div>
-</div>
-<div class="metadata">
-<a href="./fiction/Owen/index.html" class="no-external">
-<div class="listing-date">
-Jun 5, 2025
-</div>
-<div class="listing-author">
-Elizabeth Kolling
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="4" data-listing-date-sort="1749009600000" data-listing-file-modified-sort="1749522226668" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="227">
-<div class="thumbnail"><a href="./fiction/Laura/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./fiction/Laura/index.html" class="no-external">Laura</a>
-</h3>
-<div class="delink listing-description"><a href="./fiction/Laura/index.html" class="no-external">
-</a></div>
-</div>
-<div class="metadata">
-<a href="./fiction/Laura/index.html" class="no-external">
-<div class="listing-date">
-Jun 4, 2025
-</div>
-<div class="listing-author">
-Elizabeth Kolling
-</div>
-</a>
-</div>
-</div>
-<div class="quarto-post image-right" data-index="5" data-listing-date-sort="1748577600000" data-listing-file-modified-sort="1749163679730" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="282">
-<div class="thumbnail"><a href="./fiction/The Artist's Way (Fiction)/index.html" class="no-external">
-
-<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
-
-</a></div>
-<div class="body">
-<h3 class="no-anchor listing-title">
-<a href="./fiction/The Artist's Way (Fiction)/index.html" class="no-external">The Artist’s Way</a>
-</h3>
-<div class="delink listing-description"><a href="./fiction/The Artist's Way (Fiction)/index.html" class="no-external">
-</a></div>
-</div>
-<div class="metadata">
-<a href="./fiction/The Artist's Way (Fiction)/index.html" class="no-external">
-<div class="listing-date">
-May 30, 2025
-</div>
-<div class="listing-author">
-Elizabeth Kolling
-</div>
-</a>
-</div>
-</div>
-</div>
-<div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</main> <!-- /main -->
 <footer>
   <p style="text-align: center; font-size: 0.9em; color: #888;">
     © 2025 Elizabeth Kolling. All rights reserved.
