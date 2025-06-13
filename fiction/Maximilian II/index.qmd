@@ -1,10 +1,11 @@
 ---
 title: "Maximilian II"
 author: "Elizabeth Kolling"
-date: "2025-06-12"
+date: "2025-06-12T10:00:00"
 categories: 
 description: " "
 ---
+
 
 Max grew up poor in New York City, but he was talented, a class standout, and he learned to survive for the sake of his future.
 
