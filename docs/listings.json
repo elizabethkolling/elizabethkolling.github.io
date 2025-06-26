@@ -1,29 +1,30 @@
 [
   {
-    "listing": "/nonfiction.html",
-    "items": [
-      "/nonfiction/Plane Ride/index.html",
-      "/nonfiction/My First Writer's Group/index.html",
-      "/nonfiction/The Artist's Way (Non-Fiction)/index.html"
-    ]
-  },
-  {
     "listing": "/fiction.html",
     "items": [
+      "/fiction/Ethan IV/index.html",
       "/fiction/Maximilian IV/index.html",
-      "/fiction/Owen III/index.html",
+      "/fiction/Ethan III/index.html",
       "/fiction/Maximilian III/index.html",
       "/fiction/Don II/index.html",
-      "/fiction/Owen II/index.html",
+      "/fiction/Ethan II/index.html",
       "/fiction/Don/index.html",
       "/fiction/Maximilian II/index.html",
       "/fiction/Maximilian/index.html",
       "/fiction/Levi/index.html",
       "/fiction/Grandpa C./index.html",
       "/fiction/Laura II/index.html",
-      "/fiction/Owen/index.html",
+      "/fiction/Ethan/index.html",
       "/fiction/Laura/index.html",
       "/fiction/The Artist's Way (Fiction)/index.html"
+    ]
+  },
+  {
+    "listing": "/nonfiction.html",
+    "items": [
+      "/nonfiction/Plane Ride/index.html",
+      "/nonfiction/My First Writer's Group/index.html",
+      "/nonfiction/The Artist's Way (Non-Fiction)/index.html"
     ]
   }
 ]

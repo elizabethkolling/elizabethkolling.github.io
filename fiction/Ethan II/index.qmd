@@ -1,5 +1,5 @@
 ---
-title: "Owen II"
+title: "Ethan II"
 author: "Elizabeth Kolling"
 date: "2025-06-16"
 categories: 
@@ -18,4 +18,5 @@ Mom asked if I wanted to go on a walk to the lake with her yesterday, but I want
 
 
 Love,
-Owen
+
+Ethan
