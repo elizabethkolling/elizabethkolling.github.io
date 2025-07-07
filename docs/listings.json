@@ -1,7 +1,16 @@
 [
   {
+    "listing": "/nonfiction.html",
+    "items": [
+      "/nonfiction/Plane Ride/index.html",
+      "/nonfiction/My First Writer's Group/index.html",
+      "/nonfiction/The Artist's Way (Non-Fiction)/index.html"
+    ]
+  },
+  {
     "listing": "/fiction.html",
     "items": [
+      "/fiction/Levi VIII/index.html",
       "/fiction/Ethan X/index.html",
       "/fiction/Ethan IX/index.html",
       "/fiction/Levi VII/index.html",
@@ -39,14 +48,6 @@
       "/fiction/Ethan/index.html",
       "/fiction/Laura/index.html",
       "/fiction/The Artist's Way (Fiction)/index.html"
-    ]
-  },
-  {
-    "listing": "/nonfiction.html",
-    "items": [
-      "/nonfiction/Plane Ride/index.html",
-      "/nonfiction/My First Writer's Group/index.html",
-      "/nonfiction/The Artist's Way (Non-Fiction)/index.html"
     ]
   }
 ]
