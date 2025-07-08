@@ -1,0 +1,9 @@
+---
+title: "Madison II"
+author: "Elizabeth Kolling"
+date: "2025-06-08"
+categories: 
+description: " "
+---
+
+"These roses look like cabbages."
