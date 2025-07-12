@@ -1,7 +1,7 @@
 ---
 title: "Ethan XI"
 author: "Elizabeth Kolling"
-date: "2025-07-012T12:15:00"
+date: "2025-07-12T12:15:00"
 categories: 
 description: " "
 ---
@@ -17,7 +17,7 @@ description: " "
 
 “Or the pastor, or the minister.”
 
-“I fear I don’t know what is different about these titles.” 
+“I fear I don’t know what is different about these other than the titles.” 
 
 “Have no fear, but we can come back to that.”
 
