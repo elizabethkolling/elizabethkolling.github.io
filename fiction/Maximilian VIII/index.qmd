@@ -1,5 +1,5 @@
 ---
-title: "Maximilian IX"
+title: "Maximilian VIII"
 author: "Elizabeth Kolling"
 date: "2025-07-13T21:33:00"
 categories: 
