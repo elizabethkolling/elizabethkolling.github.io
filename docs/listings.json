@@ -1,16 +1,8 @@
 [
   {
-    "listing": "/nonfiction.html",
-    "items": [
-      "/nonfiction/Church of the Heavenly Rest/index.html",
-      "/nonfiction/Plane Ride/index.html",
-      "/nonfiction/My First Writer's Group/index.html",
-      "/nonfiction/The Artist's Way (Non-Fiction)/index.html"
-    ]
-  },
-  {
     "listing": "/fiction.html",
     "items": [
+      "/fiction/Ethan XIII/index.html",
       "/fiction/Maximilian VIII/index.html",
       "/fiction/Samantha III/index.html",
       "/fiction/Ethan XII/index.html",
@@ -59,6 +51,15 @@
       "/fiction/Ethan/index.html",
       "/fiction/Laura/index.html",
       "/fiction/The Artist's Way (Fiction)/index.html"
+    ]
+  },
+  {
+    "listing": "/nonfiction.html",
+    "items": [
+      "/nonfiction/Church of the Heavenly Rest/index.html",
+      "/nonfiction/Plane Ride/index.html",
+      "/nonfiction/My First Writer's Group/index.html",
+      "/nonfiction/The Artist's Way (Non-Fiction)/index.html"
     ]
   }
 ]
