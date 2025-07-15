@@ -6,7 +6,7 @@ categories:
 description: " "
 ---
 
-“So, he settles his and his friend’s bill but using his friend’s money.”
+“So, he settles his and his friend’s bill using his friend’s money.”
 
 “Are you trying to tell me that you went into my purse?”
 
