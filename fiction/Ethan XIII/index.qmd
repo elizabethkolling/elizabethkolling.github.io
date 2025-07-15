@@ -46,7 +46,7 @@ description: " "
 
 "So, like what countries, and what commodities?"
 
-"I don't know, Ghana, for one, and chocolate."
+"I guess, Ghana, for one, and I don't know, chocolate."
 
 "Ghana?"
 
