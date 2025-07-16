@@ -1,7 +1,7 @@
 ---
 title: "Maximilian IX"
 author: "Elizabeth Kolling"
-date: "2025-07-15T22:1:00"
+date: "2025-07-15T22:01:00"
 categories: 
 description: " "
 ---
