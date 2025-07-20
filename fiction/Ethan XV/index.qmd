@@ -6,7 +6,7 @@ categories:
 description: " "
 ---
 
-“Ho-sea Hussey,” said Ethan. “So, Melville’s having fun with these names.”
+“Ho-sea Huss-ey,” said Ethan. “So, Melville’s having fun with these names.”
 
 “I think it’s pronounced Ho-zay-uh.” 
 
@@ -20,6 +20,8 @@ description: " "
 
 “Do we know why Melville chose these names?”
 
-“What about Queequeg?”
+"Not yet I don't think."
 
-“I don’t know about Queequeg.”
+“And what about Queequeg?”
+
+“I have no idea.”
