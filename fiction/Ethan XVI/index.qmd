@@ -9,7 +9,7 @@ description: " "
 
 “Do you want to go first?”
 
-“I dost,” said Levi. "But I dost not."
+“I dost,” said Levi. "But I don't."
 
 “Aye, ye dost not?”
 
