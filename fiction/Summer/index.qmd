@@ -7,4 +7,4 @@ description: " "
 ---
 
 
-Summer wasn't falling, even though September was right around the corner.
+Summer wasn't falling, even though September was around the corner.
