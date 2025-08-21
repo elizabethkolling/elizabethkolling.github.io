@@ -9,7 +9,7 @@ description: " "
 
 “Where’s Samantha?”
 
-“Oh,” said Ethan. “She had to work.”
+“Oh,” said Ethan. “She has to work.”
 
 “Oh.”
 
