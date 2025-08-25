@@ -9,7 +9,7 @@ description: " "
 
 “Where’s Samantha?”
 
-“Oh,” said Ethan. “She has to work.”
+“She has to work,” said Ethan.
 
 “Oh.”
 
@@ -37,7 +37,7 @@ description: " "
 
 “She’s your girlfriend, dude.”
 
-“I know, of course I know, but it’s none of your business.”
+“Yeah, she is, so it’s none of your business.”
 
 “Sorry I asked.”
 
