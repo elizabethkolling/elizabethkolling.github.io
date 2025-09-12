@@ -2,3 +2,19 @@
 body, h1, h2, h3, h4, h5, h6, p, div, span, a, li, blockquote, code, pre {
   font-family: 'Garamond', serif !important;
 }
+
+a {
+  color: inherit;        /* makes link text the same color as surrounding text */
+  text-decoration: none; /* removes the underline */
+}
+
+/* Optional: change color only on hover */
+a:hover {
+  color: #555;           /* or pick another color */
+  text-decoration: underline; /* or none if you don’t want underline even on hover */
+}
+
+.email-link {
+  color: inherit;
+  text-decoration: none;
+}

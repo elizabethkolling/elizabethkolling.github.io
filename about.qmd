@@ -1,7 +1,10 @@
 ---
 title: "About"
-image: profile.jpg
+image: BodyMindPower.jpg
 about:
   template: jolla
 
 ---
+
+
+[Email me :)](mailto:kolling.elizabeth@gmail.com){.email-link}
