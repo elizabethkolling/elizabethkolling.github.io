@@ -1,6 +1,6 @@
 ---
 title: "About"
-image: BodyMindPower.jpg
+image: JHC.jpg
 about:
   template: jolla
 
