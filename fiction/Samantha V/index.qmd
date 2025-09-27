@@ -2,7 +2,7 @@
 title: "Samantha V"
 author: "Elizabeth Kolling"
 date: "2025-08-04T19:45:00"
-categories: 
+categories: [Samantha]
 description: " "
 ---
 

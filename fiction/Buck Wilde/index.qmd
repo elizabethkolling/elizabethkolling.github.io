@@ -2,7 +2,7 @@
 title: "Buck Wilde"
 author: "Elizabeth Kolling"
 date: "2025-08-14T21:34:00"
-categories: 
+categories: [Buck Wilde]
 description: " "
 ---
 

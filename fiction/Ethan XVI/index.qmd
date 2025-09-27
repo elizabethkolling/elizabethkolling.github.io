@@ -2,7 +2,7 @@
 title: "Ethan XVI"
 author: "Elizabeth Kolling"
 date: "2025-07-21T07:38:00"
-categories: 
+categories: [Ethan]
 description: " "
 ---
 

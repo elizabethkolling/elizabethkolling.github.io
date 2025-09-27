@@ -2,7 +2,7 @@
 title: "Ethan II"
 author: "Elizabeth Kolling"
 date: "2025-06-16"
-categories: 
+categories: [Ethan]
 description: " "
 ---
 

@@ -2,7 +2,7 @@
 title: "James III"
 author: "Elizabeth Kolling"
 date: "2025-09-04T22:13:00"
-categories: 
+categories: [James]
 description: " "
 ---
 

@@ -2,7 +2,7 @@
 title: "Fran"
 author: "Elizabeth Kolling"
 date: "2025-08-09T12:07:00"
-categories: 
+categories: [Fran]
 description: " "
 ---
 

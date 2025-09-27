@@ -2,7 +2,7 @@
 title: "Maximilian XI"
 author: "Elizabeth Kolling"
 date: "2025-07-22T07:57:00"
-categories: 
+categories: [Maximilian]
 description: " "
 ---
 

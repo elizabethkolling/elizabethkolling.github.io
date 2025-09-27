@@ -2,7 +2,7 @@
 title: "Laura V"
 author: "Elizabeth Kolling"
 date: "2025-07-27T11:45:00"
-categories: 
+categories: [Laura]
 description: " "
 ---
 

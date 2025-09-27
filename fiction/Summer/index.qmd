@@ -2,7 +2,7 @@
 title: "Summer"
 author: "Elizabeth Kolling"
 date: "2025-08-12T09:55:00"
-categories: 
+categories: [Summer]
 description: " "
 ---
 

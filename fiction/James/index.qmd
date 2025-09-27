@@ -2,7 +2,7 @@
 title: "James"
 author: "Elizabeth Kolling"
 date: "2025-07-30T08:07:00"
-categories: 
+categories: [James]
 description: " "
 ---
 

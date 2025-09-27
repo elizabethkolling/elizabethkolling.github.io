@@ -2,7 +2,7 @@
 title: "Ari"
 author: "Elizabeth Kolling"
 date: "2025-06-28"
-categories: 
+categories: [Ari]
 description: " "
 ---
 

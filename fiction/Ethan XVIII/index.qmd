@@ -2,7 +2,7 @@
 title: "Ethan XVIII"
 author: "Elizabeth Kolling"
 date: "2025-08-06T23:17:00"
-categories: 
+categories: [Ethan]
 description: " "
 ---
 

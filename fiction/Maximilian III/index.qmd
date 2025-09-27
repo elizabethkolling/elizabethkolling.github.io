@@ -2,7 +2,7 @@
 title: "Maximilian III"
 author: "Elizabeth Kolling"
 date: "2025-06-22"
-categories: 
+categories: [Maximilian]
 description: " "
 ---
 

@@ -2,7 +2,7 @@
 title: "Madison"
 author: "Elizabeth Kolling"
 date: "2025-07-06"
-categories: 
+categories: [Madison]
 description: " "
 ---
 

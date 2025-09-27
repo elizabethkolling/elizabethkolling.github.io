@@ -2,7 +2,7 @@
 title: "Ethan XI"
 author: "Elizabeth Kolling"
 date: "2025-07-12T12:15:00"
-categories: 
+categories: [Ethan]
 description: " "
 ---
 

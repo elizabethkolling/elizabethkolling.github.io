@@ -2,7 +2,7 @@
 title: "James II"
 author: "Elizabeth Kolling"
 date: "2025-08-18T22:30:00"
-categories: 
+categories: [James]
 description: " "
 ---
 

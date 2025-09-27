@@ -2,7 +2,7 @@
 title: "Laura II"
 author: "Elizabeth Kolling"
 date: "2025-06-05"
-categories: 
+categories: [Laura]
 description: " "
 ---
 

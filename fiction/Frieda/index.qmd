@@ -2,7 +2,7 @@
 title: "Frieda"
 author: "Elizabeth Kolling"
 date: "2025-07-04"
-categories: 
+categories: [Frieda]
 description: " "
 ---
 

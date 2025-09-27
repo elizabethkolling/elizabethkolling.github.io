@@ -2,7 +2,7 @@
 title: "Levi VII"
 author: "Elizabeth Kolling"
 date: "2025-07-06T14:05:00"
-categories: 
+categories: [Levi]
 description: " "
 ---
 

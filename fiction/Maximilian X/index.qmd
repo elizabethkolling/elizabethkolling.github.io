@@ -2,7 +2,7 @@
 title: "Maximilian X"
 author: "Elizabeth Kolling"
 date: "2025-07-18T21:01:00"
-categories: 
+categories: [Maximilian]
 description: " "
 ---
 

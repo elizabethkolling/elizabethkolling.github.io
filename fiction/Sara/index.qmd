@@ -2,7 +2,7 @@
 title: "Sara"
 author: "Elizabeth Kolling"
 date: "2025-07-08T08:00:00"
-categories: 
+categories: [Sara]
 description: " "
 ---
 

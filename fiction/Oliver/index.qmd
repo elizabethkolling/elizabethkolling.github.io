@@ -2,7 +2,7 @@
 title: "Oliver"
 author: "Elizabeth Kolling"
 date: "2025-07-10T17:00:00"
-categories: 
+categories: [Oliver]
 description: " "
 ---
 

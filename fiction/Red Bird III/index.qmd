@@ -2,7 +2,7 @@
 title: "Red Bird III"
 author: "Elizabeth Kolling"
 date: "2025-08-23T12:33:00"
-categories: 
+categories: [Red Bird]
 description: " "
 ---
 

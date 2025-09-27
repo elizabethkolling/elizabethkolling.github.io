@@ -2,7 +2,7 @@
 title: "Samantha II"
 author: "Elizabeth Kolling"
 date: "2025-07-09T07:25:00"
-categories: 
+categories: [Samantha]
 description: " "
 ---
 

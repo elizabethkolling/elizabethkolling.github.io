@@ -2,7 +2,7 @@
 title: "Red Bird"
 author: "Elizabeth Kolling"
 date: "2025-07-20T10:41:00"
-categories: 
+categories: [Red Bird]
 description: " "
 ---
 

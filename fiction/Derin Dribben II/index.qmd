@@ -2,7 +2,7 @@
 title: "Derin Dribben II"
 author: "Elizabeth Kolling"
 date: "2025-08-26T17:02:00"
-categories: 
+categories: [Derin Dribben]
 description: " "
 ---
 

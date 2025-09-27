@@ -2,7 +2,7 @@
 title: "Levi"
 author: "Elizabeth Kolling"
 date: "2025-06-10"
-categories: 
+categories: [Levi]
 description: " "
 ---
 

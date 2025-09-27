@@ -2,7 +2,7 @@
 title: "Maximilian XVIII"
 author: "Elizabeth Kolling"
 date: "2025-09-21T11:49:00"
-categories: 
+categories: [Maximilian]
 description: " "
 ---
 
