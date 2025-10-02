@@ -1,7 +1,7 @@
 ---
 title: "Samantha XII"
 author: "Elizabeth Kolling"
-date: "2025-10-1T21:14:00"
+date: "2025-10-01T21:14:00"
 categories: [Samantha]
 description: " "
 ---
