@@ -1,7 +1,7 @@
 ---
 title: "Summer XI"
 author: "Elizabeth Kolling"
-date: "2025-10-02T23:26:00"
+date: "2025-10-02T20:26:00"
 categories: [Summer]
 description: " "
 ---
