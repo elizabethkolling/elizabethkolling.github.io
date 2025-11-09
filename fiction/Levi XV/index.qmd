@@ -60,7 +60,7 @@ description: " "
 
 “SSRIs, and no. Get me a ham and cheese from Tartine, and I'm good. I don’t mess with those Soviet meds.” 
 
-“You don’t take a little tranquilizer every now and then, no Phenazepamdo?”
+“You don’t take a little tranquilizer every now and then, no Phenazepam?”
 
 “I don’t believe in it.”
 
@@ -76,9 +76,9 @@ description: " "
 
 "Depression’s the effect. The cause comes first." 
 
-"Naturally."
+"I don't know."
 
-"It’s what you really want to cure. Medication doesn’t equal cure. It’s like a bandaid on a bullet hole."  
+"The cause is what you really want to cure. Medication doesn’t equal cure. It’s like a bandaid on a bullet hole."  
 
 "Did you hear about the mass shooting?" 
 
@@ -86,9 +86,9 @@ description: " "
 
 "Outer Richmond." 
 
-"Oh, no." 
+"Oh, no. When?" 
 
-"Six dead, and the shooter shot himself but's stable." 
+"Last night. And I was just at Ocean Beach earlier in the afternoon. Then boom. Sun sets. Six dead. The shooter shot himself. But he's stable." 
 
 "Dang." 
 
@@ -132,7 +132,7 @@ description: " "
 
 “What do you mean her phone broke?”
 
-“That’s all she tole me to tell you.”
+“That’s all she told me to tell you.”
 
 “She told you to tell me that her phone is broken.”
 
@@ -142,7 +142,11 @@ description: " "
 
 “Not really. Just at the grocery store. I run into her there, you know. I don’t know. She gave me a script. I said my lines. I’m staying out of it from now on.” 
 
-“Let’s just get out of this house. Go to Dolores. Get lunch.”
+“Let’s just get out of this house. Get lunch. Go to Dolores.”
+
+"Tartine?"
+
+"No more croissants for you." 
 
 “La Taqueria?”
 
@@ -161,3 +165,21 @@ description: " "
 "What are you talking about."
 
 [inseert more]
+
+"She's reading de Beauvoir. I thought she'd be enthralled. All these intellectuals. They'll talk your ear off about anything, but when it's time to walk the walk, all they are is the epitome of hypocrisy."
+
+"I think she should be allowed to agree with the theoretical argument in favor of an open relationship without wanting to be in one." 
+
+"I don't know. She's such a hypocrite." 
+
+"I mean, do you even like her? It doesn't sound like you like her."
+
+"I love her." 
+
+"If you say so." 
+
+"So, are we going to talk about the fact that you're in love with my girlfriend?"
+
+"Is she your girlfriend?"
+
+"She will be." 
